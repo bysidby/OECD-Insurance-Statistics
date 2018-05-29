@@ -1,3 +1,12 @@
-﻿h1. OECD-Insurance-Statistics
+﻿h2. OECD-Insurance-Statistics
 
-The major official insurance statistics for all OECD countries. Freelance project to Epam Systems by Alexey Malashenko.
+The major official insurance statistics for all OECD countries. Freelance project by Alexey Malashenko.
+
+"Link to publication":https://app.powerbi.com/view?r=eyJrIjoiMTNmMzg2OGItOWY5NC00MWRhLTk4MGYtOWExNGIyNDk0MzU4IiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9.
+
+<pre>
+Shot URL https://goo.gl/p4kwSA
+</pre>
+
+
+
